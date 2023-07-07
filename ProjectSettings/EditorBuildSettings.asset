@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Canva/PrincipalScene.unity
+    guid: 4ab7d31ddf394c34e9c1a637c597bb73
+  - enabled: 1
+    path: Assets/Scenes/Canva/ManualScene2.unity
+    guid: cb433bb91f3fd8a4890da418715c9acf
+  - enabled: 1
+    path: Assets/Scenes/Canva/ManualScene3.unity
+    guid: 814c8760456f9ac4bb4c329215b689d2
+  - enabled: 1
+    path: Assets/Scenes/CutScenes/CutScene1.unity
+    guid: 8c84d7682f28eba418c1ed09027930f4
+  - enabled: 1
+    path: Assets/Scenes/CutScenes/CutScene2.unity
+    guid: 2ec6b66cd853dfc40a9294447659586f
+  - enabled: 1
+    path: Assets/Scenes/RiddlesScenes/Riddle1Yellow.unity
+    guid: 00e16f83b85ff324996975fd401ec340
+  - enabled: 1
+    path: Assets/Scenes/Canva/ManualScene1.unity
+    guid: d51663d6a1badec4c9e8fa68265a0c78
+  - enabled: 1
+    path: Assets/Scenes/RiddlesScenes/Riddle2Orange.unity
+    guid: befb4b9611d427a4aa163c251166133c
+  - enabled: 1
+    path: Assets/Scenes/RiddlesScenes/Riddle3Red.unity
+    guid: 727669ee55f68dc44a233b53f221c53c
+  - enabled: 1
+    path: Assets/Scenes/RiddlesScenes/Riddle4Pink.unity
+    guid: f91f09b2c78a3b9469eda6dc56e9df99
+  - enabled: 1
+    path: Assets/Scenes/RiddlesScenes/Riddle5Purple.unity
+    guid: 98622077fd63f6149a9138d0a481af92
+  - enabled: 1
+    path: Assets/Scenes/RiddlesScenes/Riddle6DarkBlue.unity
+    guid: 25cf867190b08c144a694d4ed8f19a57
+  - enabled: 1
+    path: Assets/Scenes/RiddlesScenes/Riddle7LightBlue.unity
+    guid: 36517844c58dc7d4aa2357a31523432f
+  - enabled: 1
+    path: Assets/Scenes/RiddlesScenes/Riddle8Green.unity
+    guid: a3512ec66ca3dea4e83cae6da3b98b2a
+  - enabled: 1
+    path: Assets/Scenes/RiddlesScenes/Riddle9Brown.unity
+    guid: 84a125c45b8777e418bdef9412937d3e
+  - enabled: 1
+    path: Assets/Scenes/RiddlesScenes/Riddle10Black.unity
+    guid: f33cfdb85239e0d47b1462e866e04b61
+  - enabled: 1
+    path: Assets/Scenes/Puzzle/Maze.unity
+    guid: 93e17b0304d54ed4abb9d494ef594e52
+  - enabled: 1
+    path: Assets/Scenes/RiddlesScenes/Riddle11White.unity
+    guid: c69f7f226276d444b95eb1090c5ec113
+  - enabled: 1
+    path: Assets/Scenes/RiddlesScenes/Riddle12Turquoise.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Canva/GameOver.unity
+    guid: 15e5e8c6897086c40bbd12f7cab37837
+  - enabled: 1
+    path: Assets/Scenes/Canva/Victory.unity
+    guid: 1dd79b4acf6eb864183607cea8d9cc1f
+  m_configObjects: {}
