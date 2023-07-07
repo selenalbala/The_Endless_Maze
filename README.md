@@ -1,2 +1,2 @@
-# The:_Endless_Maze
+# The_Endless_Maze
  Unity Game 2D
